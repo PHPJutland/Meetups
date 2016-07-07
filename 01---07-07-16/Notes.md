@@ -23,4 +23,4 @@ Møderne bliver afholdt skiftevis i:
 
 Hvilket giver alle en mulighed for at deltage.
 
-*Længden* på møderne er cirka 3 timer, og der er mulighed for samlet at gå ud i byen og få noget at spise efterfølgende.
+**Længden** på møderne er cirka 3 timer, og der er mulighed for samlet at gå ud i byen og få noget at spise efterfølgende.
