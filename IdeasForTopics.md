@@ -74,6 +74,38 @@
 |---------------------------|---------------------|
 | Model-View-Controller     |           	        |
 
+# Templating engines
+| Subject         	        | Possible author(s) 	|
+|---------------------------|---------------------|
+| Blade                     |           	        |
+| Mustache                  |           	        |
+| Smarty                    |           	        |
+| Twig                      |           	        |
+| Volt                      |           	        |
+
+# E-commerce
+| Subject         	        | Possible author(s) 	|
+|---------------------------|---------------------|
+| OpenCart                  |           	        |
+| PrestaShop                |           	        |
+| Magento                   |           	        |
+| Drupal Commerce           |           	        |
+| osCommerce                |           	        |
+| WooCommerce               |           	        |
+| WP e-Commerce             |           	        |
+
+# CMS 101
+| Subject         	        | Possible author(s) 	|
+|---------------------------|---------------------|
+| Wordpress                 |           	        |
+| Drupal                    |           	        |
+| Joomla                    |           	        |
+
+# Various
+| Subject         	        | Possible author(s) 	|
+|---------------------------|---------------------|
+| Open source - contribute? |           	        |
+
 # Security, best practices
 # Advanced Git
 # Queue/Workers
