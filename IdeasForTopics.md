@@ -120,6 +120,11 @@
 | Rebase & Squash           |           	        |
 
 # Queue/Workers
+| Subject         	        | Possible author(s) 	|
+|---------------------------|---------------------|
+| Beanstalkd / RabbitMQ     |           	        |
+| How to use Queue workers  |                     |
+
 # I18n/i10n
 # ORMs
 | Subject         	        | Possible author(s) 	|
