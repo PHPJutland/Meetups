@@ -10,15 +10,38 @@
 | Wordpress 	              |         	          |
 | Your favorite framework?  |                     |
 
-# Not Framework related
-
+# API Development
 | Subject         	        | Possible author(s) 	|
 |---------------------------|---------------------|
-| Api Developtment          |           	        |
-| Security, best practices  |           	        |
-| Advanced Git              |           	        |
-| Queue Workers             |           	        |
-| PHPUnit & Testing         |                     |
+| API Docs                  |                     |
+| Testing API's             |                     |
+| Designing APIs            |                     |
+| REST vs SOAP              |                     |
 
+# Continous deployment/integration
+| Subject         	        | Possible author(s) 	|
+|---------------------------|---------------------|
+| Build tools               |                     |
+
+# Project management
+| Subject         	        | Possible author(s) 	|
+|---------------------------|---------------------|
+| Scrum                     |           	        |
+| Waterfall                 |           	        |
+| eXtreme Programming       |           	        |
+| Test-driven development   |           	        |
+| Domain-driven development |           	        |
+| Behavior-driven development|           	        |
+
+# Testing
+| Subject         	        | Possible author(s) 	|
+|---------------------------|---------------------|
+| Unit testing              |           	        |
+| Integration tests         |           	        |
+
+# Security, best practices
+# Advanced Git
+# Queue/Workers
+# I18n/i10n
 
 # Your category?
