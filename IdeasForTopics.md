@@ -61,9 +61,24 @@
 | Galera cluster            |           	        |
 | SQL vs NoSQL              |           	        |
 
+# Master your editor/IDE
+| Subject         	        | Possible author(s) 	|
+|---------------------------|---------------------|
+| phpStorm                  |           	        |
+| Sublime Text              |           	        |
+| Vi(m)                     |           	        |
+| Atom                      |           	        |
+
+# Architectural patterns
+| Subject         	        | Possible author(s) 	|
+|---------------------------|---------------------|
+| Model-View-Controller     |           	        |
+
 # Security, best practices
 # Advanced Git
 # Queue/Workers
 # I18n/i10n
+# ORMs
+# Design patterns
 
 # Your category?
