@@ -107,7 +107,18 @@
 | Open source - contribute? |           	        |
 
 # Security, best practices
+| Subject         	        | Possible author(s) 	|
+|---------------------------|---------------------|
+| Password Hashing          |           	        |
+| Sessions                  |           	        |
+| Cookies                   |           	        |
+| Sanitize inputs           |           	        |
+
 # Advanced Git
+| Subject         	        | Possible author(s) 	|
+|---------------------------|---------------------|
+| Rebase & Squash           |           	        |
+
 # Queue/Workers
 # I18n/i10n
 # ORMs
