@@ -123,5 +123,8 @@
 # I18n/i10n
 # ORMs
 # Design patterns
+| Subject         	        | Possible author(s) 	|
+|---------------------------|---------------------|
+| SOLID                     |           	        |
 
 # Your category?
