@@ -17,6 +17,8 @@
 | Testing API's             |                     |
 | Designing APIs            |                     |
 | REST vs SOAP              |                     |
+| Webhooks                  |                     |
+| Websockets                |                     |
 
 # Continous deployment/integration
 | Subject         	        | Possible author(s) 	|
@@ -38,6 +40,26 @@
 |---------------------------|---------------------|
 | Unit testing              |           	        |
 | Integration tests         |           	        |
+
+# PaaS Platform-as-a-Service
+| Subject         	        | Possible author(s) 	|
+|---------------------------|---------------------|
+| Heroku                    |           	        |
+| Dokku                     |           	        |
+| Amazon Elastic Beanstalk (EB)|           	        |
+
+# IaaS Infrastructure-as-a-Service
+| Subject         	        | Possible author(s) 	|
+|---------------------------|---------------------|
+| AWS Elastic Compute (EC2) |           	        |
+| AWS EC2 Container Service |           	        |
+
+# Databases
+| Subject         	        | Possible author(s) 	|
+|---------------------------|---------------------|
+| MySQL/MariaDB             |           	        |
+| Galera cluster            |           	        |
+| SQL vs NoSQL              |           	        |
 
 # Security, best practices
 # Advanced Git
