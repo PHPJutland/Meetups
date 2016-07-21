@@ -122,6 +122,10 @@
 # Queue/Workers
 # I18n/i10n
 # ORMs
+| Subject         	        | Possible author(s) 	|
+|---------------------------|---------------------|
+| Eloquent           |           	        |
+
 # Design patterns
 | Subject         	        | Possible author(s) 	|
 |---------------------------|---------------------|
