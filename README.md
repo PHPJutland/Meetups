@@ -10,6 +10,7 @@ For at finde temaer for fremtidige meetups kan man kigge i "**Themes.md**"
 
 ### Addresser 
 **Herning**: Birk Centerpark 40, Herning.
+
 **Aalborg**: Slotspladsen 1A, 9000 Aalborg
 
 ### Links
