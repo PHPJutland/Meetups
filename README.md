@@ -2,7 +2,6 @@
 
 PHPJutland has now been around Jutland and met developers; We're looking into a more static location for now, but will always appreciate companies who would like to talk about their use of PHP.
 
-Themes for future Meetups can be found in "**Themes.md**"
 
 ### Addresser 
 **Herning**: Birk Centerpark 40, Herning.
